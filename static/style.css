@@ -1,0 +1,76 @@
+.pesquisa {
+	width: 100%;
+	display: inline-block;
+	margin: 200px auto;
+	text-align: center;
+	transition: 300ms;
+}
+
+.pesquisa.translate{
+	-webkit-transform: translate(0px, 0px);
+	transform: translate(0px, 0px);
+	margin-bottom: 15px;
+	margin-top: 0px;
+}
+
+.pesquisa button{margin: 0;}
+.pesquisa input{width: 500px;}
+
+.primary{
+	background-color: #3498db;
+	color: #fff;
+}
+
+.result{
+	margin: 0 auto;
+	opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.show{opacity: 1;}
+
+.item::after{
+	content: '';
+	display: block;
+	height: 1px;
+	width: 100%;
+	background: currentColor;
+}
+
+h2{font-size: 1em; }
+h3{font-size: .9em; font-weight: normal;}
+h4{font-size: .7em; font-weight: normal;}
+p{font-size:  .8em;}
+a{text-decoration: none; outline: none; color: #000; margin: 0px;}
+*{font-family: sans-serif; margin: 5px;}
+
+input{
+	padding: 10px;
+	border: solid 1px #ccc;
+	box-shadow: 1px 1px 10px #ccc;
+	border-radius: 3px;
+	font-size: 1em;
+}
+
+button{
+	padding: 10px;
+	border-radius: 3px;
+	border: none;
+	font-size: 1em;
+}
+
+button:hover{box-shadow: 1px 1px 10px #ccc;}
+
+/*Grid*/
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}

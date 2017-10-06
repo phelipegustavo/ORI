@@ -1,0 +1,161 @@
+Efeitos agudos de vários métodos de treinamento de força no lactato sanguíneo e características de cargas em homens treinados recreacionalmente
+Paulo GentilI, II; Elke OliveiraI, III; Keila FontanaII, III; Guilherme MolinaIII; Ricardo Jacó de OliveiraIV; Martim BottaroII, III
+
+Los efectos de variados métodos de entrenamiento de resistencia sobre el lactato sanguíneo y características medias en hombres entrenados de forma recreativa
+
+IGrupo de Estudos Avançados em Saúde e Exercício
+IIPrograma de Pós-Graduação em Ciências da Saúde – Universidade de Brasília
+IIIPrograma de Pós-Graduação em Educação Física – Universidade de Brasília
+IVPrograma de Pós-Graduação em Educação Física – Universidade Católica de Brasília
+
+Endereço para correspondência
+
+
+
+
+
+RESUMO
+
+Diversos métodos de treinamento de força (MTF) foram desenvolvidos com o propósito de manipular os estímulos fisiológicos e obter melhores resultados com o treinamento. O propósito do presente estudo foi comparar as respostas metabólicas e mecânicas entre sete diferentes MTF descritos na literatura. Os MTF foram comparados com relação ao lactato sanguíneo, tempo sob tensão (TST) e sobrecarga total (TST x carga) em jovens treinados do sexo masculino. Os MTF testados foram 10RM, superlento, isométrico funcional, oclusão vascular adaptada, 6RM, repetições forçadas e séries descendentes. Todos os MTF produziram elevações significativas no lactato sanguíneo, sem diferenças entre eles. O método de séries descendentes produziu maior tempo sob tensão e sobrecarga total em comparação com os outros MTF testados.
+
+Palavras-chave: Treino de força. Hipertrofia muscular. Respostas agudas. Lactato sanguíneo. Trabalho.
+
+RESUMEN
+
+Diversos métodos de entrenamiento de fuerza (RTM) fueron desarrollados con el propósito de manipular los estímulos fisiológicos y obtener mejores resultados con el entrenamiento. El propósito del presente estudio ha sido el de comparar las respuestas metabólicas y mecánicas entre siete diferentes RTM descritos en la literatura. Los RTM fueron comparados con respecto al lactato sanguíneo, tiempo bajo tensión (TUT) y sobrecarga total (TUT x carga) en jóvenes entrenados del sexo masculino. Los RTM evaluados fueron 10RM, superlento, pico de contracción, oclusión vascular adaptada, 6RM, repeticiones forzadas y series descendentes. Todos los RTM produjeron incrementos significativos en el lactato sanguíneo, sin diferencias entre ellos. El método de series descendente produjo mayor tiempo bajo tensión y sobrecarga total cuando comparado con los otros RTM evaluados.
+
+Palabras-clave: Entrenamiento de fuerza. Hipertrofia muscular. Respuestas agudas. Lactato sanguíneo. Trabajo.
+
+
+
+
+
+INTRODUÇÃO
+
+O treinamento de força tem papel fundamental nos programas de atividade física e tem sido recomendado por várias organizações de saúde importantes no intuito de melhorar a saúde geral e condicionamento físico(1-5). Dois dos objetivos mais comuns do treinamento de força são o aumento da força muscular e a hipertrofia com fins atléticos, estéticos ou de saúde, como por exemplo em condições crônicas como sarcopenia e AIDS(6-9).
+
+Os resultados obtidos com o treinamento de força são influenciados tanto por estímulos mecânicos como metabólicos. O estímulo mecânico é diretamente influenciado pela quantidade de peso levantada em cada repetição e pelo número de repetições feitas por série; além disso, acredita–se que este seja um dos fatores determinantes mais importantes das adaptações do treinamento de força(10-12). Apesar disso, alguns estudos sugerem que as alterações metabólicas exercem importante papel nos ganhos de força e massa muscular, mesmo quando se tem um volume reduzido de treino(13-16).
+
+No intuito de manipular os estímulos de treinamento e alcançar melhores resultados, vários métodos de treinamento de força (MTF) foram desenvolvidos. Os MTF manipulam as variáveis de treinamento de diferentes maneiras, fornecendo estímulos mecânicos e metabólicos de diferentes magnitudes. Também é importante saber como cada MTF se comporta para delinear treinamentos de força com o máximo de eficiência e segurança.
+
+Estudos comparando diferentes MTF têm sido relatados na literatura. Ahtiainen et al.(17) compararam as respostas agudas e neuromusculares entre o método de repetições forçadas (RF) e o método de 12 repetições máximas (12RM) e acharam maiores sobrecargas para o método de RF sem diferenças significativas para os níveis de lactato sanguíneo. Hunter et al.(18) compararam as respostas metabólicas e freqüência cardíaca entre os métodos superlento (SL) e 10 repetições máximas (10RM) e acharam níveis de lactato significativamente mais altos para o método de 10 RM. Contudo, Keogh et al.(19) não reportaram nenhuma diferença significativa na concentração de lactato sanguíneo entre os métodos SL e 10RM.
+
+Assim, devido à contradição entre os achados de Keogh et al.(19) e Hunter et al.(18), além da falta de estudos comparando estímulos fisiológicos entre outros MTF, o objetivo do presente estudo foi comparar as respostas metabólicas e mecânicas dentre sete MTF diferentes reportados na literatura.
+
+
+
+MÉTODOS
+
+Sujeitos
+
+Sete homens recreacionalmente treinados em treinamento de força, com pelo menos um ano de experiência nos MTF testados, foram recrutados para participar do estudo. O mínimo de experiência em treinamento de força geral requerido para participar do estudo foi de dois anos. Todos os sujeitos foram informados sobre os riscos e benefícios do experimento e assinaram um termo de consentimento informado antes da participação no estudo. O estudo foi aprovado pelo Comitê de Ética da Universidade de Brasília.
+
+Métodos de treinamento de força (MTF)
+
+Todos os MTF foram feitos num aparelho de extensão de joelho. Os sete MTF analisados no estudo foram os seguintes:
+
+1) Método de 10 repetições máximas (DEZ) – Levantamento isoinercial normal com carga de 10RM conduzido até falha concêntrica ser atingida;
+
+2) Método de seis repetições máximas 6RM (SEIS) – Levantamento isoinercial normal com carga de 6RM conduzido até falha concêntrica ser atingida;
+
+3) Método de séries descendentes (SD) – As repetições foram feitas com carga de 6RM até falha concêntrica. Após falha, a carga era reduzida em 5,0kg e o exercício continuava. O procedimento foi repetido até que 15 repetições fossem feitas. Uma média de 4,14 ± 0,9 reduções de carga foi feita durante o método de SD;
+
+4) Método de repetições forçadas (RF) – Uma série com carga de 6RM foi feita até que falha concêntrica fosse alcançada. Após falha, quatro outras repetições assistidas foram feitas. A assistência foi somente oferecida na fase concêntrica e o mesmo técnico em exercício assistiu a todos os sujeitos;
+
+5) Método de isometria funcional (IF) – Levantamentos isoinerciais normais foram feitos com carga de 10RM até falha concêntrica. Em cada repetição foi executada uma contração isométrica de cinco segundos em extensão máxima de joelho;
+
+6) Oclusão vascular adaptada (OV) – Uma contração máxima isométrica de 20 segundos com carga de 10RM foi imediatamente seguida por levantamentos isoinerciais normais com carga de 10RM até falha concêntrica. Este método é geralmente utilizado para a obtenção dos benefícios da oclusão vascular(15-16,20), uma vez que ações isométricas são conhecidas por serem eficientes em interromper o fluxo sanguíneo e acumular metabólitos(21-22);
+
+7)Método superlento (SL) – Uma série com uma repetição de 60 segundos foi feita, sendo 30 segundos para a fase excêntrica e 30 para a concêntrica. O tempo foi informado a cada cinco segundos para controlar a velocidade.
+
+Procedimentos para testagem
+
+Os testes foram executados num aparelho de extensão de joelhos (HN1030, Righetto, São Paulo–Brasil). Na semana anterior ao experimento uma carga de 10 repetições máximas (RM) e uma de 6RM foi obtida para cada sujeito de acordo com os procedimentos de Simão et al.(23).
+
+Todos os sete sujeitos realizaram os sete MTF aleatoriamente. Os testes MTF foram realizados durante duas semanas: semana 1 incluiu OV, IF, SL e DEZ; semana 2 envolveu SD, RF e SEIS. Quatro sujeitos executaram semana 1 antes da 2 e os três restantes executaram a ordem inversa: semana 2 antes da semana 1 (figura 1). A ordem dos MTF foi aleatória durante cada semana, com um mínimo de 24 e um máximo de 48 horas de intervalo entre os testes. Os sujeitos foram instruídos a evitar qualquer tipo de treinamento de força envolvendo os músculos quadríceps 24 horas antes dos testes.
+
+
+
+
+
+
+
+
+Em todos os MTF, exceto por SL e momentos isométricos específicos em IF e OV, os sujeitos foram instruídos a manter uma velocidade constante de dois segundos na fase concêntrica e dois segundos na fase excêntrica, sem pausa entre as mesmas. A fase concêntrica iniciou–se a 100º da flexão de joelho e foi finalizada com os joelhos completamente estendidos. Foi utilizado um metrônomo para o controle da velocidade de contração.
+
+Medidas do lactato sanguíneo
+
+Uma pequena amostra de sangue (25µl) foi retirada do lóbulo da orelha direita imediatamente antes e três minutos após a finalização da cada MTF para se determinar o lactato sanguíneo. O sangue dessas incisões foi permitido fluir por um tubo capilar heparinizado da marca NH4. A partir do tubo capilar, o sangue foi adicionado a um tubo Eppendorf rotulado e completado com um tampão com uma proporção de 1:3 (sangue para tampão). Estas amostras foram então armazenadas a aproximadamente 4ºC por cerca de 30 minutos e posteriormente colocadas em refrigerador. As amostras sanguíneas foram analisadas utilizando–se o analisador de lactato YSI 1500 (Yellow Springs Instrument Co., Yellow Springs, OH).
+
+Avaliação das cargas
+
+O tempo sob tensão (TST) foi definido como o tempo total no qual os músculos estavam aplicando força ao implemento durante a execução de cada MTF. O mesmo investigador registrou o tempo de todos os testes usando um cronômetro digital. Além disso, o produto "tempo sob tensão × carga" foi utilizado para se estimar a carga total imposta aos músculos em atividade.
+
+Análises estatísticas
+
+Métodos estatísticos padrões foram utilizados para o cálculo das médias e desvios–padrão. As diferenças entre o MTF para a resposta de lactato, TST e carga foram acessadas através do teste de Friedman. O teste Wilcoxon–Signed Rank com ajuste do intervalo de confiança pelo método de Bonferroni foi usado como método pós–hoc. O critério de p < 0,05 foi utilizado para se estabelecer a significância estatística.
+
+
+
+RESULTADOS
+
+As características físicas dos sujeitos estão apresentadas na tabela 1.
+
+
+
+
+
+
+
+
+Lactato sanguíneo
+
+Os resultados das respostas de lactato sanguíneo estão apresentados na figura 2. Todos os MTF aumentaram significativamente o lactato sanguíneo em relação aos níveis de repouso (p < 0,01); contudo, não houve diferenças na resposta do lactato sanguíneo entre os MTF (p > 0,05).
+
+
+
+
+
+
+
+
+Características das cargas
+
+Os resultados de TST e cargas totais estão apresentados na tabela 2. O TST para SD foi maior do que para todos os métodos restantes (p < 0,05). O TST para o método SL foi maior do que DEZ, SEIS, RF e OV. Os valores de TST para os métodos IF e OV foram maiores do que DEZ, SEIS e RF (p < 0,05). O método de RF elicitou TST maior do que DEZ e SEIS; e o método DEZ elicitou TST maior do que o método SEIS (p < 0,05).
+
+
+
+
+
+
+
+
+A carga total aplicada ao músculo, expressa como o produto "tempo sob tensão x carga", foi maior para o método SD do que para todos os outros MTF (p < 0,05). A carga total durante o SL foi maior do que nos métodos DEZ, SEIS e OV. As cargas para os métodos IF, OV e RF foram maiores do que DEZ e SEIS (p < 0,05).
+
+
+
+DISCUSSÃO
+
+A falta de diferenças para as respostas de lactato sanguíneo entre os MTF testados no presente estudo está em concordância com os achados anteriores(17,19). Contudo, as conclusões são limitadas devido ao número reduzido de sujeitos e às grandes variações interindividuais nas respostas de lactato. Alem disso, análises retrospectivas da potência estatística indicaram uma taxa de erro tipo II, tornando o estudo despontecializado ao seu término; sendo assim, trabalhos futuros são necessários para solucionar a questão do acúmulo de metabólitos em diferentes MTF.
+
+Geralmente uma série é terminada quando não é possível levantar uma carga predeterminada; o método SD é confeccionado com o intuito de ir além desse ponto utilizando decrementos de carga para o ajuste da carga à capacidade de força muscular. No presente estudo, o método SD produziu índices de carga maior do que todos os outros MTF. O TST para o SD foi significativamente maior em comparação com os outros métodos (p < 0,05). Esses achados, associados com o significante acúmulo de metabólitos durante o método SD, torna atraente a especulação de que este MTF é particularmente eficiente na indução de ganhos no tamanho do músculo e força, o que está de acordo com os estudos anteriores(24-26).
+
+Comparando o método RF com o SEIS, achou–se que as respostas de lactato sanguíneo não foram diferentes entre elas, apesar de se executar 77% mais repetições e esforço (p < 0,01) e terem sido submetidas a 52,14% mais TST (p < 0,01) durante o método RF. O fato de que o método RF não produziu respostas de lactato superiores quando comparado ao SEIS está de acordo com achados anteriores(17) e não é inesperado, já que contrações excêntricas mostraram induzir um baixo stress metabólico(19,27-29). O raciocínio para se utilizar o método RF provavelmente reside nas características neuromusculares das ações excêntricas. Durante a fase de queda do movimento, mais força poderia ser exercida do que durante a porção concêntrica do levantamento. Sendo assim, mesmo após a falha concêntrica é possível continuar–se o exercício com ações excêntricas, prolongando estímulos ao treinamento. Uma vez que ações excêntricas são sabidamente causadoras de maior dano muscular(30-31) e ativadoras de mecanotransdução mais do que outras fases do movimento(32), o método RF deveria ser utilizado para estimular esses mecanismos adaptativos, sendo adequado para promoção de ganhos em força e hipertrofia, como sugerido por Ahtiainen et al.(17).
+
+Os achados atuais não mostraram diferenças significantes entre as respostas de lactato sanguíneo durante o método SL e outro MTF, ao contrário de achados anteriores(18). O TST foi significantemente maior para o SL do que para os métodos DEZ, SEIS, OV e RF e a carga total foi significantemente maior do que para os métodos DEZ, SEIS e OV. Tal fato poderia tornar o método SL útil para hipertrofia como sugerido por Westcott et al.(33). É importante destacar que o método SL utilizado neste estudo é notavelmente diferente de outros(18-19,33-34). O protocolo de SL de Keeler et al.(34) e Hunter et al.(18) consistiu de contrações concêntricas de 10 segundos e contrações excêntricas de 5 segundos a 50% e 28% de 1RM, respectivamente, enquanto utilizamos uma carga equivalente a 10RM com 30 segundos para ambas as fases concêntrica e excêntrica. Cargas leves poderiam ser a causa para adaptações crônicas reduzidas observadas por Keeler et al.(34) e baixo stress metabólico encontrado por Hunter et al.(18). Faz–se necessário ressaltar que o treinamento SL está associado a um considerável desconforto, o qual pode disfarçar a intensidade real de exercício e induzir ao uso de cargas mais leves do que os músculos podem suportar; assim, deve-se ter cuidado para não subestimar a carga quando se utilizar o método SL no caso de se desejar melhorar o tamanho e a força muscular.
+
+Este é o primeiro estudo conhecido que analisa o método OV. O TST para o método OV foi significantemente maior do que para os métodos DEZ, SEIS e RF e a carga total foi superior para os métodos DEZ e SEIS (p < 0,05). Devido à fadiga causada por contração isométrica anterior, as repetições totais caíram consideravelmente (22,9%) quando comparadas ao método DEZ; contudo, o TST e carga total aumentaram visivelmente (~39%). O método OV é baseado nas alterações no padrão de recrutamento de fibras durante contração em condições isquêmicas como sugerido por Takarada et al.(15). O raciocínio deste MTF é realizar uma contração isométrica no intuito de induzir isquemia, para que fibras de contração rápida maiores estejam preferencialmente recrutadas durante contrações subseqüentes. Contudo, não se sabe se este MTF induziria resultados crônicos comparáveis àqueles obtidos com oclusão vascular constante via torniquete, como visto por Takarada et al.(15), Burgomaster et al.(16) e Shinohara et al.(20).
+
+Estudos anteriores encontraram que o método IF foi superior a programas de treinamento de força tradicionais quanto ao aumento de força muscular(35-36), especialmente em sujeitos mais fortes(37). Além de ganhos de força em ângulos de articulações específicos sugeridos por Fleck e Kraemer(38), tal fato pode ter sido devido a TST mais altos e carga total adquirida com este método em comparação com abordagens tradicionais (DEZ e SEIS), como visto no presente estudo. Além disso, a isquemia causada por contrações isométricas máximas poderia também agir como um estressor metabólico para melhorar adaptações similares às vistas em estudos utilizando oclusão vascular(15-16,20).
+
+Durante comparação entre dois MTF tradicionais (DEZ vs. SEIS), encontrou-se que a carga total foi significantemente maior do que DEZ quando comparado ao método SEIS (p < 0,05); porém, as diferenças na carga total não foram significativas. As respostas de lactato sanguíneo não foram diferentes entre os métodos DEZ e SEIS, apesar da resposta de lactato sanguíneo médio ter sido 39% mais alta do que no método SEIS. Kraemer et al.(39) testaram protocolos de treinamento resistido com múltiplas séries e exercícios e não encontraram diferenças nas respostas de lactato sanguíneo entre protocolos utilizando 5RM ou 10RM quando um período de 3 minutos de descanso de duração foi utilizado entre séries e exercícios. Todavia, houve respostas de lactato sanguíneo significantemente mais altas durante o protocolo de 10RM, quando foi dado um intervalo de descanso de 1 minuto. Tais resultados sugerem que o acúmulo de lactato sanguíneo em indivíduos treinados em força é mais evidente com séries múltiplas e intervalos de descanso mais curtos.
+
+Estudos futuros devem utilizar outros métodos para mensurar tanto características fisiológicas (como, por exemplo, síntese de proteína muscular e RNAm específica de proteínas de interesse) como mecânicas do MTF em amostras maiores. Além disso, estudos de longa duração se fazem necessários no intuito de avaliar adaptações crônicas para diferentes MTF para testar se as diferenças agudas em parâmetros fisiológicos selecionados refletem em adaptações crônicas ao treinamento.
+
+
+
+CONCLUSÕES
+
+Concluindo, todos os MTF produziram aumentos significantes nos índices dos lactato sanguíneo a partir do repouso; contudo, não houve diferenças nas respostas entre os MTF. Estes resultados indicam que todos os MTF parecem fornecer os mesmos estímulos metabólicos. A respeito dos estímulos mecânicos, o SD produziu cargas mais altas do que todos os outros MTF. Adicionalmente, cargas durante SL, IF, VO e RF foram maiores do que cargas durante os métodos DEZ e SEIS.
+
+Em termos práticos, quando o objetivo do treinamento é fornecer estímulos metabólicos, todos os MTF parecem ser igualmente eficientes. No caso do objetivo ser induzir stress mecânico maior, o SD parece ser o mais indicado.
