@@ -37,11 +37,23 @@
 	background: currentColor;
 }
 
+select{ padding: 10px; }
+
+.content{	margin: 10px auto;}
+.content h3{ font-weight: bold; }
+.content h1{ font-weight: bold; font-size: 1.5em; }
+.content p{
+	text-align: justify;
+	font-family: Times;
+	font-size: 1.3em;
+}
+
 h2{font-size: 1em; }
 h3{font-size: .9em; font-weight: normal;}
-h4{font-size: .7em; font-weight: normal;}
-p{font-size:  .8em;}
+h4{font-size: .9em; font-weight: normal;}
+p{font-size:  1em;}
 a{text-decoration: none; outline: none; color: #000; margin: 0px;}
+
 *{font-family: sans-serif; margin: 5px;}
 
 input{
@@ -56,7 +68,9 @@ button{
 	padding: 10px;
 	border-radius: 3px;
 	border: none;
-	font-size: 1em;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 1.1em;
 }
 
 button:hover{box-shadow: 1px 1px 10px #ccc;}

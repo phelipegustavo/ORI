@@ -8,22 +8,16 @@
 </head>
 <body>
 	<div class="col-12">
-		<div class="pesquisa">
-			<input type="text" name="search">
-			<button class="primary" onclick="pesquisar()">Pesquisar</button>
-		</div>
+		<form action="/search" method="GET">
+			<div class="pesquisa">
+				<input type="text" name="search">
+				<button class="primary" type="submit">Pesquisar</button>
+				<select name="tipo">
+					<option value="AND"> AND </option>
+					<option value="OR"> OR </option>
+				</select>
+			</div>
+		</form>
 	</div>
-	<div class="col-8 result">
-	{% for doc in docs %}
-		<div class="item">
-			<a href="#">
-				<h2 id="titulo" >		Título: {{ doc[0] }}		</h2>
-				<h3 id="autor">			Autor: {{ doc[1] }}			</h3>
-				<p id="descricao">	Descrição: {{ doc[2] }}	</p>
-			</a>
-		</div>
-	{% endfor %}
-	</div>
-	<script type="text/javascript" src="{{ url_for('static', filename = 'script.js') }}"></script>
 <body>
 </html>

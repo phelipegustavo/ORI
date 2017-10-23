@@ -1,16 +1,5 @@
 Lipodistrofia generalizada congênita
-Paulo P. Figueiredo FilhoI; Alexandre Costa ValII; Rosângela DiamanteI; Cristiane F. CunhaIII; Rocksane C. NortonIII; Joel A. LamounierIII; Ênnio LeãoIV
-
-IProfessor(a) assistente, Departamento de Pediatria, Faculdade de Medicina, Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, MG
-IIAcadêmico, Faculdade de Medicina, Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, MG
-IIIProfessor(a) adjunto(a), Departamento de Pediatria, Faculdade de Medicina, Universidade Federal de Minas Gerais(UFMG), Belo Horizonte, MG
-IVProfessor emérito, Departamento de Pediatria, Faculdade de Medicina, Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, MG
-
-Endereço para correspondência
-
-
-
-
+Paulo P. Figueiredo Filho; Alexandre Costa Val; Rosângela Diamante; Cristiane F. Cunha; Rocksane C. Norton; Joel A. Lamounier; Ênnio Leão
 
 RESUMO
 
@@ -20,10 +9,6 @@ COMENTÁRIOS: As características fenotípicas da lipodistrofia generalizada con
 
 Hipertrofia muscular, diabetes melito, hipertrigliceridemia.
 
-
-
-
-
 Introdução
 
 A lipodistrofia generalizada é uma desordem do metabolismo dos lípides e carboidratos caracterizada clinicamente por graus variáveis de redução de gordura nos tecidos adiposos. As células adiposas são escassas e apresentam volume reduzido devido à sua incapacidade de armazenamento de lípides. Atualmente, classifica-se a lipodistrofia como parcial ou total (generalizada) e congênita ou adquirida1-3.
@@ -32,44 +17,13 @@ A forma congênita generalizada (lipodistrofia generalizada congênita), descrit
 
 Formas adquiridas podem relacionar-se a distúrbios auto-imunes decorrentes de processos infecciosos. As manifestações clínicas são similares às encontradas na forma congênita, sobretudo quando o acometimento é precoce7.
 
-
-
 Apresentação dos casos
 
 Nos ambulatórios de Doenças Nutricionais e de Endocrinologia do Serviço de Pediatria do Hospital das Clínicas da UFMG, foram identificados oito crianças e adolescentes com lipodistrofia generalizada congênita (síndrome de Berardinelli-Seip). Os pacientes, três do sexo masculino e cinco do sexo feminino, sendo duas irmãs, com idades entre 3 meses e 19 anos (Tabela 1), apresentavam história familiar positiva para as manifestações da doença, embora, na maioria das vezes, sem diagnóstico da síndrome.
 
-
-
-
-
-
-
-
 O fenótipo mais característico da síndrome foi evidenciado em todos os pacientes: lipoatrofia generalizada, hipertrofia muscular, aparência acromegálica, cabelos grossos e ressecados. Cinco crianças apresentaram acantose nigricans e seis apresentaram hepatoesplenomegalia. Com menor freqüência, foram identificados xantomas, hipertrofia cardíaca, hipertensão arterial, diabetes melito, hiperinsulinemia, cistos ovarianos, hipertrofia das parótidas e hipertrofia clitoriana. Houve um caso de pancreatite aguda secundário a hipertrigliceridemia em uma das pacientes aos 17 anos de idade. Entre as alterações bioquímicas, foram detectados: aumento das concentrações das aminotransferases em quatro crianças, hipertrigliceridemia associada à redução das concentrações da HDL em sete, e microalbuminúria em uma criança. Achados radiológicos incluíram focos de esclerose em ossos longos e cardiomegalia (Tabelas 2 e 3; Figura 1). Dosagens de hormônio de crescimento encontravam-se dentro dos limites da normalidade.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Entre as medidas terapêuticas adotadas, o controle dietético foi o mais importante. Dois pacientes estão em uso de enalapril e metformina para controle da hipertensão e da resistência à insulina, e uma está em uso de glibenclamida.
-
 
 
 Discussão

@@ -1,24 +1,9 @@
 TREINAMENTO DE FORÇA E HIPERTROFIA
 Paulo Henrique Silva Marques de Azevedo, Marcelo Saldanha Aoki, Tácito Pessoa de Souza Junior e Valmor Tricoli
 
-
-
-Faculdade Anhanguera – Bauru; FACOL – Lençóis Paulista
-2
-UFSCar – Laboratório de Fisiologia do Exercício
-3
-Departamento de Esporte, Escola de Educação Física e Esporte, Universidade de São
-Paulo
-4
-Escola de Artes, Ciências e Humanidades, USP
-5
-Laboratório de Plasticidade Muscular, ICBUSP
-6
-Faculdade de Educação Física de Santos (FEFIS/UNIMES) – Santos/SP
 RESUMO
-AZEVEDO, P. H. S. M., AOKI, M. S., SOUZA JUNIOR, T. P.; TRICOLI, V. Biomotricity Roundtable –
-Resistance Training And Hypertrophy. Brazilian Journal Biomotricity, v. 3, n. 1, p. 02-10, 2009. Os objetivos
-do presente estudo foram o de situar qual o estado atual da arte em treinamento de força (TF), quais as
+
+Os objetivos do presente estudo foram o de situar qual o estado atual da arte em treinamento de força (TF), quais as
 perspectivas de direcionamento futuro para as pesquisas em TF, aplicação prática do TF e questões
 controversas na literatura. Para isto foram convidados 18 pesquisadores com histórico de publicações
 importantes em TF para responder 8 questões dissertativas. Três pesquisadores atenderam ao convite.
@@ -38,7 +23,9 @@ suporte uma resposta positiva ou negativa sobre o TF priorizar a secreção de G
 hipertrofia muscular. A direção futura das pesquisas com TF aponta para estudos envolvendo a biologia
 molecular, investigação de diferentes fatores que influenciam a hipertrofia muscular, prescrição do TF para
 populações especiais e aspectos genéticos da resposta ao TF.
+
 INTRODUÇÃO
+
 Nas últimas décadas houve um crescimento substancial no número de pesquisas com
 treinamento de força (TF), bem como na qualidade das mesmas. Este interesse se deve,
 a princípio, pela escassez de dados publicados e ao aumento da prescrição do TF com
@@ -332,7 +319,9 @@ Azevedo et al.: Biomotricity Round Table
 www.brjb.com.br
 ilian Journal of Biomotricity
 , v. 3, n. 1,p. 02-11, 2009 (ISSN 1981-6324)
+
 CONCLUSÃO
+
 Podemos concluir que não houve divergência de idéias entre os pesquisadores
 participantes, talvez devido aos mesmos virem de “escolas” semelhantes. Não há uma
 resposta definitiva sobre a velocidade ideal de contração para indução da hipertrofia

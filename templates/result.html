@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Recuperação da Informação</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='style.css') }}"></link>
+</head>
+<body>
+	<div class="col-12">
+		<div class="pesquisa">
+			<form action="search" method="GET">
+				<input type="text" name="search">
+        <button class="primary" type="submit" onclick="pesquisar()">Pesquisar</button>
+			</form>
+		</div>
+	</div>
+	<div class="col-8 result">
+	{% for doc in docs %}
+		<div class="item">
+			<a href="/doc/{{doc.arquivo}}">
+				<h2 id="titulo" >		Título: {{ doc.titulo }}		</h2>
+				<h3 id="autor">			Autor: {{ doc.autor }}			</h3>
+				<p id="descricao">	Descrição: {{ doc.descricao }}	</p>
+			</a>
+		</div>
+	{% endfor %}
+	</div>
+	<script type="text/javascript" src="{{ url_for('static', filename = 'script.js') }}"></script>
+<body>
+</html>

@@ -1,16 +1,6 @@
 EFEITO DA ORDEM DOS EXERCÍCIOS NO TREINAMENTO DE FORÇA
-Enrico Gori Soares1,2; Paulo Henrique Marchetti1,2
-1Grupo de Pesquisa em Neuromecânica do Treinamento de Força (GNTF), Faculdade de Educação
-Física da Associação Cristã de Moços de Sorocaba, Sorocaba, SP, Brasil.
-2Grupo de Pesquisa em Performance Humana, Programa de Pós-Graduação Stricto Sensu em Ciências
-do Movimento Humano, Faculdade de Ciências da Saúde (FACIS), UNIMEP, Piracicaba, SP, Brasil.
-Endereço para correspondência:
-Paulo H. Marchetti
-Universidade Metodista de Piracicaba
-Roddovia do Açúcar Km 156, Bloco 7, Sala 32, Taquaral
-13400-911 - Piracicaba, SP – Brasil
-E-mail: pmarchetti@unimep.br
-2
+Enrico Gori Soares; Paulo Henrique Marchetti
+
 RESUMO
 Diversos estudos demonstram que a ordem de execução dos exercícios
 influenciam a performance neuromuscular em uma sessão de treinamento, e
@@ -222,8 +212,6 @@ atividade muscular do quadríceps femoral. Os exercícios cadeira extensora e le
 de uma série 15 repetições na cadeira extensora utilizando 30% de 1RM seguido de
 uma série de 15 repetições de leg press 45° com 60% de 1RM. A segunda rotina foi
 
-
-
 11
 similar à primeira, porém a cadeira extensora foi realizada com 60% de 1RM. Ambas as
 rotinas foram comparadas a uma rotina controle que consistiu somente na realização do
@@ -237,7 +225,7 @@ segunda rotina.
 4. CONCLUSÃO
 Conclui-se que o efeito da ordem dos exercícios durante uma sessão de
 treinamento pode influenciar a performance neuromuscular quando realizados no início
-da sessão de treinamento (prioritários) quando comparada a sua realização ao final da 
+da sessão de treinamento (prioritários) quando comparada a sua realização ao final da
 sessão de treino. A percepção subjetiva de esforço parece não ser afetada pela ordem
 de execução dos exercícios e o sistema nervoso central parece alterar o padrão de
 recrutamento dos músculos em exercícios multiarticulares quando precedidos por um

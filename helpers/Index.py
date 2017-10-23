@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 from operator import itemgetter
-
+from helpers.OperacoesTexto import *
 """
-Etapa 1: Indexação
+    Indexação
     1. Separação de palavras:
         Extrair do início do documento o título, autor.
         Varrer todo texto e sempre quando encontrar um espaço ou um símbolo especial considera uma palavra encerrada; (Obs. O hífen ‘-‘ é considerado uma letra)
@@ -19,57 +19,46 @@ Etapa 1: Indexação
 
 class Index(object):
 
-    STOPWORDS_DIRETORIO = "helpers/stopwords.txt"
     TF_DIRETORIO        = "tf/"
 
     def __init__(self, arquivo):
-        self.simbolos   = "\"\'\\/|’‘’“”•$&@%!?#§*(){}[]<>_–+±=ªº~^`´¨£¢¬,.¡¿:;1234567890"
         self.texto      = ""
         self.palavras   = []
-        self.indice     = {}
+        self.tf         = {}
         self.arquivo    = arquivo
 
-        self.stopwords  = open(self.STOPWORDS_DIRETORIO, 'r', encoding="utf8").readline().lower().split(' ')
 
         if arquivo:
             self.texto  = open('docs/'+arquivo, 'r', encoding="utf8").readlines()
-            self.titulo = self.texto[0]
+            self.titulo = self.texto[0].upper()
             self.autor  = self.texto[1]
+            #Remover Titulo e Autor
+            self.texto.pop(0)
+            self.texto.pop(0)
         pass
 
     def limparTexto(self):
-        #Remover Titulo e Autor
-        self.texto.pop(0)
-        self.texto.pop(0)
         self.texto = "".join(self.texto)
-        # Remover simbolos e separar palavras
-        for s in self.simbolos:
-            self.texto = self.texto.replace(s, ' ')
-        self.palavras = self.texto.lower().split()
-        # Remover StopWords
-        temp = []
-        for p in self.palavras:
-            if p not in self.stopwords:
-                temp.append(p)
-        self.palavras = temp
+        ot = OperacoesTexto(self.texto)
+        self.palavras  = ot.limpar()
 
     def criarListaTF(self):
-        # Criar indice<Termo,Frequencia>
+        # Criar tf<Termo,Frequencia>
         for p in self.palavras:
-            if p in self.indice:
-                self.indice[p] += 1
+            if p in self.tf:
+                self.tf[p] += 1
             else:
-                self.indice[p] = 1
+                self.tf[p] = 1
         # Ordenar por frequencias mais altas
-        self.indice = sorted(self.indice.items(), key=itemgetter(1))
-        self.indice.sort(key=itemgetter(1), reverse=True)
+        self.tf = sorted(self.tf.items(), key=itemgetter(1))
+        self.tf.sort(key=itemgetter(1), reverse=True)
 
     def gerarRegistro(self):
-        # Criar Arquivo Indice<Termo,Frequencia>
-        arquivo_indice = open(self.TF_DIRETORIO+self.arquivo, 'w', encoding="utf8")
-        for i in self.indice:
-            arquivo_indice.write(str(i[0]) + ":" + str(i[1])+"\n")
-        arquivo_indice.close()
+        # Criar Arquivo tf<Termo,Frequencia>
+        arquivo_tf = open(self.TF_DIRETORIO+self.arquivo, 'w', encoding="utf8")
+        for i in self.tf:
+            arquivo_tf.write(str(i[0]) + ":" + str(i[1])+"\n")
+        arquivo_tf.close()
 
     def indexar(self):
         self.limparTexto()

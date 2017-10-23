@@ -1,18 +1,7 @@
 Efeitos agudos de vários métodos de treinamento de força no lactato sanguíneo e características de cargas em homens treinados recreacionalmente
-Paulo GentilI, II; Elke OliveiraI, III; Keila FontanaII, III; Guilherme MolinaIII; Ricardo Jacó de OliveiraIV; Martim BottaroII, III
+Paulo Gentil; Elke Oliveira; Keila Fontana; Guilherme Molina; Ricardo Jacó de Oliveira; Martim Bottaro
 
 Los efectos de variados métodos de entrenamiento de resistencia sobre el lactato sanguíneo y características medias en hombres entrenados de forma recreativa
-
-IGrupo de Estudos Avançados em Saúde e Exercício
-IIPrograma de Pós-Graduação em Ciências da Saúde – Universidade de Brasília
-IIIPrograma de Pós-Graduação em Educação Física – Universidade de Brasília
-IVPrograma de Pós-Graduação em Educação Física – Universidade Católica de Brasília
-
-Endereço para correspondência
-
-
-
-
 
 RESUMO
 
@@ -27,9 +16,6 @@ Diversos métodos de entrenamiento de fuerza (RTM) fueron desarrollados con el p
 Palabras-clave: Entrenamiento de fuerza. Hipertrofia muscular. Respuestas agudas. Lactato sanguíneo. Trabajo.
 
 
-
-
-
 INTRODUÇÃO
 
 O treinamento de força tem papel fundamental nos programas de atividade física e tem sido recomendado por várias organizações de saúde importantes no intuito de melhorar a saúde geral e condicionamento físico(1-5). Dois dos objetivos mais comuns do treinamento de força são o aumento da força muscular e a hipertrofia com fins atléticos, estéticos ou de saúde, como por exemplo em condições crônicas como sarcopenia e AIDS(6-9).
@@ -41,7 +27,6 @@ No intuito de manipular os estímulos de treinamento e alcançar melhores result
 Estudos comparando diferentes MTF têm sido relatados na literatura. Ahtiainen et al.(17) compararam as respostas agudas e neuromusculares entre o método de repetições forçadas (RF) e o método de 12 repetições máximas (12RM) e acharam maiores sobrecargas para o método de RF sem diferenças significativas para os níveis de lactato sanguíneo. Hunter et al.(18) compararam as respostas metabólicas e freqüência cardíaca entre os métodos superlento (SL) e 10 repetições máximas (10RM) e acharam níveis de lactato significativamente mais altos para o método de 10 RM. Contudo, Keogh et al.(19) não reportaram nenhuma diferença significativa na concentração de lactato sanguíneo entre os métodos SL e 10RM.
 
 Assim, devido à contradição entre os achados de Keogh et al.(19) e Hunter et al.(18), além da falta de estudos comparando estímulos fisiológicos entre outros MTF, o objetivo do presente estudo foi comparar as respostas metabólicas e mecânicas dentre sete MTF diferentes reportados na literatura.
-
 
 
 MÉTODOS
@@ -74,13 +59,6 @@ Os testes foram executados num aparelho de extensão de joelhos (HN1030, Righett
 
 Todos os sete sujeitos realizaram os sete MTF aleatoriamente. Os testes MTF foram realizados durante duas semanas: semana 1 incluiu OV, IF, SL e DEZ; semana 2 envolveu SD, RF e SEIS. Quatro sujeitos executaram semana 1 antes da 2 e os três restantes executaram a ordem inversa: semana 2 antes da semana 1 (figura 1). A ordem dos MTF foi aleatória durante cada semana, com um mínimo de 24 e um máximo de 48 horas de intervalo entre os testes. Os sujeitos foram instruídos a evitar qualquer tipo de treinamento de força envolvendo os músculos quadríceps 24 horas antes dos testes.
 
-
-
-
-
-
-
-
 Em todos os MTF, exceto por SL e momentos isométricos específicos em IF e OV, os sujeitos foram instruídos a manter uma velocidade constante de dois segundos na fase concêntrica e dois segundos na fase excêntrica, sem pausa entre as mesmas. A fase concêntrica iniciou–se a 100º da flexão de joelho e foi finalizada com os joelhos completamente estendidos. Foi utilizado um metrônomo para o controle da velocidade de contração.
 
 Medidas do lactato sanguíneo
@@ -96,43 +74,19 @@ Análises estatísticas
 Métodos estatísticos padrões foram utilizados para o cálculo das médias e desvios–padrão. As diferenças entre o MTF para a resposta de lactato, TST e carga foram acessadas através do teste de Friedman. O teste Wilcoxon–Signed Rank com ajuste do intervalo de confiança pelo método de Bonferroni foi usado como método pós–hoc. O critério de p < 0,05 foi utilizado para se estabelecer a significância estatística.
 
 
-
 RESULTADOS
 
 As características físicas dos sujeitos estão apresentadas na tabela 1.
-
-
-
-
-
-
-
 
 Lactato sanguíneo
 
 Os resultados das respostas de lactato sanguíneo estão apresentados na figura 2. Todos os MTF aumentaram significativamente o lactato sanguíneo em relação aos níveis de repouso (p < 0,01); contudo, não houve diferenças na resposta do lactato sanguíneo entre os MTF (p > 0,05).
 
-
-
-
-
-
-
-
 Características das cargas
 
 Os resultados de TST e cargas totais estão apresentados na tabela 2. O TST para SD foi maior do que para todos os métodos restantes (p < 0,05). O TST para o método SL foi maior do que DEZ, SEIS, RF e OV. Os valores de TST para os métodos IF e OV foram maiores do que DEZ, SEIS e RF (p < 0,05). O método de RF elicitou TST maior do que DEZ e SEIS; e o método DEZ elicitou TST maior do que o método SEIS (p < 0,05).
 
-
-
-
-
-
-
-
 A carga total aplicada ao músculo, expressa como o produto "tempo sob tensão x carga", foi maior para o método SD do que para todos os outros MTF (p < 0,05). A carga total durante o SL foi maior do que nos métodos DEZ, SEIS e OV. As cargas para os métodos IF, OV e RF foram maiores do que DEZ e SEIS (p < 0,05).
-
-
 
 DISCUSSÃO
 
@@ -151,8 +105,6 @@ Estudos anteriores encontraram que o método IF foi superior a programas de trei
 Durante comparação entre dois MTF tradicionais (DEZ vs. SEIS), encontrou-se que a carga total foi significantemente maior do que DEZ quando comparado ao método SEIS (p < 0,05); porém, as diferenças na carga total não foram significativas. As respostas de lactato sanguíneo não foram diferentes entre os métodos DEZ e SEIS, apesar da resposta de lactato sanguíneo médio ter sido 39% mais alta do que no método SEIS. Kraemer et al.(39) testaram protocolos de treinamento resistido com múltiplas séries e exercícios e não encontraram diferenças nas respostas de lactato sanguíneo entre protocolos utilizando 5RM ou 10RM quando um período de 3 minutos de descanso de duração foi utilizado entre séries e exercícios. Todavia, houve respostas de lactato sanguíneo significantemente mais altas durante o protocolo de 10RM, quando foi dado um intervalo de descanso de 1 minuto. Tais resultados sugerem que o acúmulo de lactato sanguíneo em indivíduos treinados em força é mais evidente com séries múltiplas e intervalos de descanso mais curtos.
 
 Estudos futuros devem utilizar outros métodos para mensurar tanto características fisiológicas (como, por exemplo, síntese de proteína muscular e RNAm específica de proteínas de interesse) como mecânicas do MTF em amostras maiores. Além disso, estudos de longa duração se fazem necessários no intuito de avaliar adaptações crônicas para diferentes MTF para testar se as diferenças agudas em parâmetros fisiológicos selecionados refletem em adaptações crônicas ao treinamento.
-
-
 
 CONCLUSÕES
 

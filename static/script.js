@@ -1,7 +1,5 @@
 function pesquisar(){
 	document.querySelector(".pesquisa").classList.add("translate");
-	setTimeout(list,400)
+	document.querySelector(".result").classList.add("show");
 }
-function list(){
-	var result = document.querySelector(".result").classList.add("show")
-}
+pesquisar();
