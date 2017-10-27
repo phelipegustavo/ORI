@@ -27,12 +27,12 @@ class BooleanoRI(object):
                 return True
         return False
 
-    def executar(self, metodo):
+    def executar(self, tipo):
         docs = []
         for tf in self.termos:
-            if metodo == 'AND':
+            if tipo == 'AND':
                 r = self.AND(tf)
-            elif metodo == 'OR':
+            elif tipo == 'OR':
                 r = self.OR(tf)
             if r:
                 docs.append(self.termos.index(tf))

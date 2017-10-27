@@ -8,27 +8,30 @@
 </head>
 <body>
 	<div class="col-12">
-		<div class="pesquisa">
-			<form action="search" method="GET">
-				<input type="text" name="search" value='{{consulta}}'>
-        <button class="primary" type="submit" onclick="pesquisar()">Pesquisar</button>
-				<select name="tipo">
-					<option value="AND"> AND </option>
-					<option value="OR"> OR </option>
-				</select>
-			</form>
-		</div>
+		<form action="/search" method="GET">
+			<div class="pesquisa">
+				<input type="text" name="search" value="{{ consulta }}"/>
+				<button class="primary" type="submit">Pesquisar</button>
+				<input class="trigger-input" type="radio" name="metodo" value="Booleano"/>Booleano
+					<select name="tipo">
+						<option value="AND"> AND </option>
+						<option value="OR"> OR </option>
+					</select>
+				<input type="radio" name="metodo" value="Vetorial"/>Vetorial</input>
+				</br>
+			</div>
+		</form>
 	</div>
-	<div class="col-8 result">
-	{% for doc in docs %}
-		<div class="item">
-			<a href="/doc/{{doc.arquivo}}">
-				<h2>Título: {{ doc.titulo }}</h2>
-				<h3>Autor: {{ doc.autor }}</h3>
-				<!-- <h4>Descrição: {{ doc.descricao }}</h4> -->
-			</a>
-		</div>
-	{% endfor %}
+	<div class="col-9 result">
+		<p> Exibindo {{ n }} resultados </p>
+		{% for doc in docs %}
+			<div class="item">
+				<a href="/doc/{{doc.arquivo}}">
+					<h2>Título: {{ doc.titulo }}</h2>
+					<h3>Autor: {{ doc.autor }}</h3>
+				</a>
+			</div>
+		{% endfor %}
 	</div>
 	<script type="text/javascript" src="{{ url_for('static', filename = 'script.js') }}"></script>
 <body>

@@ -1,26 +1,21 @@
 # -*- coding: utf-8 -*-
 from unicodedata import normalize
 
+STOPWORDS_DIRETORIO = "helpers/stopwords.txt"
+simbolos   = "\"\'\\/|’‘’“”•$&@%!?#§*(){}[]<>_–+±=ªº~^`´¨£¢¬,.¡¿:;1234567890"
+stopwords  = open(STOPWORDS_DIRETORIO, 'r', encoding="utf8").readline().lower().split(' ')
+
 class OperacoesTexto(object):
 
-    STOPWORDS_DIRETORIO = "helpers/stopwords.txt"
-
-    def __init__(self, texto):
-        self.simbolos   = "\"\'\\/|’‘’“”•$&@%!?#§*(){}[]<>_–+±=ªº~^`´¨£¢¬,.¡¿:;1234567890"
-        self.stopwords  = open(self.STOPWORDS_DIRETORIO, 'r', encoding="utf8").readline().lower().split(' ')
-        self.texto      = texto
-        self.palavras   = []
-
-
-    def limpar(self):
+    def limpar(texto):
         # Remover simbolos e separar palavras
-        for s in self.simbolos:
-            self.texto = self.texto.replace(s, ' ')
-        self.texto = normalize('NFKD', self.texto).encode('ASCII', 'ignore').decode('ASCII')
-        self.palavras = self.texto.lower().split()
+        for s in simbolos:
+            texto = texto.replace(s, ' ')
+        texto = normalize('NFKD', texto).encode('ASCII', 'ignore').decode('ASCII')
+        palavras = texto.lower().split()
         # Remover StopWords
         temp = []
-        for p in self.palavras:
-            if p not in self.stopwords:
+        for p in palavras:
+            if p not in stopwords:
                 temp.append(p)
         return temp

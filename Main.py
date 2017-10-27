@@ -4,6 +4,7 @@ from helpers.BooleanoRI import *
 from helpers.OperacoesTexto import *
 from helpers.VetorialRI import *
 from flask import Flask, render_template, request
+from operator import itemgetter
 
 app     = Flask(__name__)
 QNT     = 10    # Quantidade de Documentos
@@ -17,29 +18,35 @@ for i in range(QNT):
     indices.append(indice)
     tfs.append(open('tf/' + str(i+1) + '.txt', 'r', encoding='utf8').readlines())
 
-vetorial = VetorialRI('muscular joelho', tfs)
-vetorial.calcularIDF()
-print(vetorial.idf)
-vetorial.calcularTF()
-
 @app.route('/')
 def index():
     return render_template('index.html')
 
 @app.route('/search', methods = ['GET'])
 def search():
-    if request.method == 'GET':
-        consulta = request.args['search']
-        docsR = []
-        if consulta:
-            ot = OperacoesTexto(consulta)
-            consulta = (' ').join(ot.limpar())
+    consulta = request.args['search']
+    docsR = []
+    if consulta:
+        consulta = (' ').join(OperacoesTexto.limpar(consulta))
+
+        if request.args['metodo'] == "Booleano":
             booleanoRI = BooleanoRI(consulta, tfs)
             docsRI = booleanoRI.executar(request.args['tipo'])
             for d in docsRI:
                 docsR.append(indices[d])
-            return render_template('view_result.html', docs=docsR, consulta=consulta)
-        return render_template('index.html')
+
+        elif request.args['metodo'] == "Vetorial":
+            vetorialRI = VetorialRI(consulta, tfs)
+            sim = vetorialRI.executar()
+            r = []
+            for i in range(len(sim)):
+                r.append((sim[i], indices[i]))
+            r = sorted(r, key=itemgetter(0), reverse=True)
+            for i in range(len(r)):
+                if r[i][0]!=0: docsR.append(r[i][1])
+
+        return render_template('view_result.html', docs=docsR, consulta=consulta, n=len(docsR))
+    return render_template('index.html')
 
 @app.route('/doc/<filename>')
 def open_doc(filename):
@@ -47,4 +54,4 @@ def open_doc(filename):
     return render_template('view_doc.html', doc=doc)
 
 if __name__ == "__main__":
-    app.run ()
+    app.run (debug=True)

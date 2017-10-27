@@ -39,8 +39,7 @@ class Index(object):
 
     def limparTexto(self):
         self.texto = "".join(self.texto)
-        ot = OperacoesTexto(self.texto)
-        self.palavras  = ot.limpar()
+        self.palavras = OperacoesTexto.limpar(self.texto)
 
     def criarListaTF(self):
         # Criar tf<Termo,Frequencia>
