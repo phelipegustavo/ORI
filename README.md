@@ -2,10 +2,10 @@
 
 ## The application is about organization and retrieval of txt's documents. 
 You can inject your documents on folder and the code retun yours results search in order.
-![alt text](https://github.com/Phelipesilva/ORI/tree/image-rename/img1.png)
+![alt text](https://github.com/Phelipesilva/ORI/blob/master/image-rename/img1.png)
 
-1. [Instalation.](#Instalation)
-2. [Edit for use.](#editforuse)
+1. [Instalation.](#instalation)
+2. [Edit for use.](#edit-for-use)
 3. [How I Execute.](#execute)
 
 
