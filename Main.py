@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-from helpers import BooleanoRI.*, Index.*, OperacoesTexto.*, VetorialRI.*
+from helpers.Index import *
+from helpers.BooleanoRI import *
+from helpers.OperacoesTexto import *
+from helpers.VetorialRI import *
 from flask import Flask, render_template, request
 from operator import itemgetter
 
