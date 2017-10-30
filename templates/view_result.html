@@ -10,14 +10,14 @@
 	<div class="col-12">
 		<form action="/search" method="GET">
 			<div class="pesquisa">
-				<input type="text" name="search" value="{{ consulta }}"/>
+				<input type="text" name="search" value="{{ request.args['search'] }}"/>
 				<button class="primary" type="submit">Pesquisar</button>
-				<input class="trigger-input" type="radio" name="metodo" value="Booleano"/>Booleano
+				<input type="radio" name="metodo" value="Booleano" {% if request.args['metodo'] == 'Booleano' %} checked {% endif %} />Booleano
 					<select name="tipo">
-						<option value="AND"> AND </option>
-						<option value="OR"> OR </option>
+						<option value="AND" {% if request.args['tipo'] == 'AND' %} selected {% endif %} > AND </option>
+						<option value="OR"  {% if request.args['tipo'] == 'OR' %} selected {% endif %} > OR </option>
 					</select>
-				<input type="radio" name="metodo" value="Vetorial"/>Vetorial</input>
+				<input type="radio" name="metodo" value="Vetorial" {% if request.args['metodo'] == 'Vetorial' %} checked {% endif %} />Vetorial</input>
 				</br>
 			</div>
 		</form>

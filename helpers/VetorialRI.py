@@ -29,7 +29,6 @@ class VetorialRI(object):
                     termo,freq = t.split(':')
                     if termo == k:
                         find = True
-                        print(t)
                         D.append(int(freq))
                 if not find: D.append(0)
             self.Ds.append(D)

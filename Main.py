@@ -1,15 +1,12 @@
 # -*- coding: utf-8 -*-
-from helpers.Index import *
-from helpers.BooleanoRI import *
-from helpers.OperacoesTexto import *
-from helpers.VetorialRI import *
+from helpers import BooleanoRI.*, Index.*, OperacoesTexto.*, VetorialRI.*
 from flask import Flask, render_template, request
 from operator import itemgetter
 
 app     = Flask(__name__)
 QNT     = 10    # Quantidade de Documentos
-indices = []    # List de objetos Indices
-tfs     = []    # List de Arquivos Termo Frequencia
+indices = []    # Lista de objetos Indices
+tfs     = []    # Lista de Arquivos Termo Frequencia
 
 for i in range(QNT):
     arquivo = str(i+1)+".txt"
@@ -45,7 +42,7 @@ def search():
             for i in range(len(r)):
                 if r[i][0]!=0: docsR.append(r[i][1])
 
-        return render_template('view_result.html', docs=docsR, consulta=consulta, n=len(docsR))
+        return render_template('view_result.html', docs=docsR, n=len(docsR))
     return render_template('index.html')
 
 @app.route('/doc/<filename>')
