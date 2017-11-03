@@ -5,6 +5,7 @@ from helpers.OperacoesTexto import *
 from helpers.VetorialRI import *
 from flask import Flask, render_template, request
 from operator import itemgetter
+import webbrowser
 
 app     = Flask(__name__)
 QNT     = 10    # Quantidade de Documentos
@@ -17,6 +18,8 @@ for i in range(QNT):
     indice.indexar()
     indices.append(indice)
     tfs.append(open('tf/' + str(i+1) + '.txt', 'r', encoding='utf8').readlines())
+
+webbrowser.open('http://localhost:5000')
 
 @app.route('/')
 def index():
