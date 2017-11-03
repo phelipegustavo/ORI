@@ -45,7 +45,6 @@ class VetorialRI(object):
 
     def calcularTF(self):
         maxD = [0] * len(self.Ds)
-        print(self.Q)
         maxQ = sorted(self.Q, reverse=True)[0]
         for d in range(len(self.Ds)):
             maxD[d] = sorted(self.Ds[d], reverse=True)[0]
