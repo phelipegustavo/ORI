@@ -1,3 +1,4 @@
+
 .pesquisa {
 	width: 100%;
 	display: inline-block;
@@ -16,13 +17,13 @@
 .pesquisa button{margin: 0;}
 .pesquisa input[type="text"]{width: 500px;}
 
-select{ padding: 8px;display: none}
+select{ padding: 8px;display: none;}
 input[name="metodo"]:checked + select{
 	display: inline-block;
 }
 
 .primary{
-	background-color: #3498db;
+	background-color: #FFD44F;
 	color: #fff;
 }
 
@@ -82,9 +83,20 @@ button{
 	text-decoration: none;
 	cursor: pointer;
 	font-size: 1.1em;
+	
 }
 
-button:hover{box-shadow: 1px 1px 10px #ccc;}
+button:hover{box-shadow: 1px 1px 10px #ccc;background-color: #242424; transition: all .2s;}
+button:focus{box-shadow: 1px 1px 10px #ccc;background-color: #242424; }
+button:active{box-shadow: 1px 1px 10px #ccc;opacity: .6; transition: all .2s;}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    transition: background-color 5000s ease-in-out 0s;
+}
+
 
 /*GRID*/
 .col-1 {width: 8.33%;}
@@ -99,3 +111,18 @@ button:hover{box-shadow: 1px 1px 10px #ccc;}
 .col-10 {width: 83.33%;}
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
+
+img{
+	width:200px;
+	position: absolute;
+	left:50%;
+	margin-left: -100px;
+}
+.alertInput{
+	color: red;
+	font-weight: 500;
+	display: none;
+}
+.alertInput-active{
+	display: inline;
+}
